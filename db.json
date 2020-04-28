@@ -1,9 +1,34 @@
 {
   "Restaraunts": [
-    { "RestarauntName": "Taco Bell", "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/tacobell.gif" , "RestarauntSite": "tacobell.com", "RestaruantDescription": "Tacos for everyone!"},
-    { "RestarauntName": "McDonalds", "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/mcdonalds.gif" , "RestarauntSite": "mcdonalds.com", "RestaruantDescription": "Welcome to the Golden Arches!"},
-    { "RestarauntName": "Papa Johns", "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/papajohns.jpg" , "RestarauntSite": "papajohns.com", "RestaruantDescription": "Pizza thats out of this world!"},
-    { "RestarauntName": "Wendy's", "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/wendys.gif" , "RestarauntSite": "wendys.com", "RestaruantDescription": "Never frozen beef!"},
-    { "RestarauntName": "Burger King", "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/burgerking.png" , "RestarauntSite": "burgerking.com", "RestaruantDescription": "Burgers like no other!"},
+    {
+      "RestarauntName": "Taco Bell",
+      "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/tacobell.gif",
+      "RestarauntSite": "tacobell.com",
+      "RestaruantDescription": "Tacos for everyone!"
+    },
+    {
+      "RestarauntName": "McDonalds",
+      "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/mcdonalds.gif",
+      "RestarauntSite": "mcdonalds.com",
+      "RestaruantDescription": "Welcome to the Golden Arches!"
+    },
+    {
+      "RestarauntName": "Papa Johns",
+      "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/papajohns.jpg",
+      "RestarauntSite": "papajohns.com",
+      "RestaruantDescription": "Pizza thats out of this world!"
+    },
+    {
+      "RestarauntName": "Wendy's",
+      "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/wendys.gif",
+      "RestarauntSite": "wendys.com",
+      "RestaruantDescription": "Never frozen beef!"
+    },
+    {
+      "RestarauntName": "Burger King",
+      "RestarauntImage": "https://raw.githubusercontent.com/rsaleem2/demo/master/burgerking.png",
+      "RestarauntSite": "burgerking.com",
+      "RestaruantDescription": "Burgers like no other!"
+    }
   ]
 }
