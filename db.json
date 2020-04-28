@@ -1,14 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Restaraunts": [
+    { "RestarauntName": "Taco Bell", "RestarauntImage":  , "RestarauntSite": "tacobell.com", "RestaruantDescription": "Tacos for everyone!"},
+    { "RestarauntName": "McDonalds", "RestarauntImage":  , "RestarauntSite": "mcdonalds.com", "RestaruantDescription": "Welcome to the Golden Arches!"},
+    { "RestarauntName": "Papa Johns", "RestarauntImage":  , "RestarauntSite": "papajohns.com", "RestaruantDescription": "Pizza thats out of this world!"},
+    { "RestarauntName": "Wendy's", "RestarauntImage":  , "RestarauntSite": "wendys.com", "RestaruantDescription": "Never frozen beef!"},
+    { "RestarauntName": "Burger King", "RestarauntImage":  , "RestarauntSite": "burgerking.com", "RestaruantDescription": "Burgers like no other!"},
+  ]
 }
